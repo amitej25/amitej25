@@ -3,7 +3,15 @@ Data science enthusiast, having 6 years experience with Machine learning analysi
 Cloud is Fun
 
 
-Skills: Phyton/ SQL / Numpy/ Pandas/ Tensorflow / Pytorch/Kubernets/Docker 
+## Skills and Experience
+* 🅿️ phyton
+* 📅 sql
+* Tensorflow
+* Phytorch
+* Kubernetes
+* Docker
+* Numpy
+* Pandas
 
 - 🔭 I’m currently working on Creating Blogs with LLM's
 - 🌱 I’m currently learning Deep Learning
