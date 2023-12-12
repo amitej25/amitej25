@@ -12,5 +12,5 @@ Cloud is Fun
 - 🔭 I’m currently working on Creating Blogs with LLM's
 - 🌱 Delving deep into  Deep Learning
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/your-profile-url](https://www.linkedin.com/in/amitej-reddy-1308781a6/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/amitej-reddy-1308781a6/)
 
